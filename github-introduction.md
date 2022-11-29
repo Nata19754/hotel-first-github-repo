@@ -26,5 +26,5 @@
 - `command c` - copy
 - `command + v` - paste
 - `command + z` - undo
-
+- `command + shift + z` - redo
 
